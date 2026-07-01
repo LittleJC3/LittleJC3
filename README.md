@@ -1,6 +1,6 @@
 # Hi, I'm John
 
-Developer based outside Albany, NY. Mostly Python and SQL these days, with side trips into C# (we use it for our shipping integrations) and Power BI when reports need to actually look like reports.
+Developer based outside Albany, NY. Mostly Python and SQL these days, with side trips into C# (we use it for our shipping integrations) and dabbling in Power BI when reports need to actually look like reports.
 
 A few things I've shipped recently:
 
