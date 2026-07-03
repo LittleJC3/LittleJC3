@@ -1,17 +1,32 @@
 # Hi, I'm John
 
-Developer based outside Albany, NY. Mostly Python and SQL these days, with side trips into C# (we use it for our shipping integrations) and dabbling in Power BI when reports need to actually look like reports.
+Developer based outside Albany, NY. My day-to-day for the past 3.5 years 
+has been Python and SQL, building automation tools, reconciliation systems, 
+and reporting workflows that solve real business problems.
 
-A few things I've shipped recently:
+A few things I've shipped:
 
-- A Python tool that catches FedEx invoice mistakes, usually finding thousands of dollars worth per week
-- A C# app talking to FedEx, UPS, and USPS APIs that 25+ of our warehouse folks use daily
-- Reporting automation that knocked 7+ hours of manual work off our team's week
+- Python automation that catches FedEx invoice billing discrepancies, 
+  surfacing thousands of dollars in errors every week
+- Contributed to a C# app integrating FedEx, UPS, and USPS APIs used 
+  daily by 25+ warehouse staff
+- Reporting automation that knocked 7+ hours of manual work off the 
+  team's week
+- REST API integrations with the Amazon SP-API for product and 
+  inventory management
 
-**Tech I actually use:** Python (pandas, NumPy), SQL Server, Power BI (DAX), C#, JavaScript, Angular, REST APIs.
+**What I actually work with day-to-day:** Python (pandas, NumPy), SQL 
+Server (stored procedures, query optimization), REST APIs, JavaScript, 
+C#, Classic ASP.
 
-**Background:** B.S. Information Technology, Magna Cum Laude, University of Cincinnati '25. Power BI Data Modeling with DAX certified.
+**Learning actively:** Power BI/DAX (certified, building portfolio 
+dashboards), exploring data analytics more deeply.
 
-**Right now:** Open to remote, Albany area, or hybrid roles, leaning toward data analyst, analytics engineer, BI developer, or Python developer.
+**Background:** B.S. Information Technology, Magna Cum Laude, University 
+of Cincinnati '25. Dean's List every semester.
 
-Find me at [linkedin.com/in/johnciulla](https://linkedin.com/in/johnciulla) or jciulla3@gmail.com.
+**Right now:** Open to remote, Albany NY area, or hybrid roles. Leaning 
+toward data analyst, analytics engineer, BI developer, or Python developer.
+
+[linkedin.com/in/johnciulla](https://linkedin.com/in/johnciulla) · 
+jciulla3@gmail.com
